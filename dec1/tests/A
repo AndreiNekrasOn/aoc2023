@@ -1,0 +1,8 @@
+[TEST]
+9
+[EXPECTED]
+99
+[TEST]
+9f
+[EXPECTED]
+99
